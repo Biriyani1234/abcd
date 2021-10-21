@@ -5,7 +5,7 @@ int main()
     int a,b,temp;
     cout<<"enter a: "; //enter a number
     cin>>a;
-    cout<<"enter b: ";
+    cout<<"enter b: ";  //enter another number
     cin>>b;
     temp=a;
     a=b;
