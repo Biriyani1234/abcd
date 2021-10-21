@@ -10,7 +10,7 @@ int main()
     temp=a;
     a=b;
     b=temp;
-    cout<<"a is"<<a<<endl;
+    cout<<"a is"<<a<<endl; //a is greater
     cout<<"b is"<<b<<endl;
      
 }
